@@ -1,5 +1,4 @@
 import factory
-from factory import declarations
 from faker import Faker
 
 from django.contrib.auth.models import User
